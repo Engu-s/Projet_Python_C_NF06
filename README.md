@@ -3,3 +3,4 @@ Il a pour but de gérer le catalogue de produits d'un site e-commerce et d'inté
 Cette partie du programme est exécutée en Python.
 Parallèlement, des méthodes de calculs liées à l'optimisation du transport de marchandise en fonction du poids des produits ont été implémentées au projet.
 Cette partie du programme est, cette fois-ci, exécutée en C.
+Le logiciel Doxygen a été utilisé pour permettre la liaison entre le code en Python et celui en C.
